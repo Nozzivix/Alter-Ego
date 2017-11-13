@@ -1,0 +1,21 @@
+{
+	"username": "Alter Ego",
+	"avatar_url": "https://i.imgur.com/SNCYIyG.jpg",
+	"content": "{{AuthorName}} uploaded {{Title}} at {{CreatedAt}} {{Url}} ",
+	"embeds": [{
+		"author": {
+			"name": "{{AuthorName}}",
+			"url": "https://www.youtube.com/c/nozzivix",
+			"icon_url": "https://i.imgur.com/8AdrWW7.png"
+		},
+		"description": "[New Video!]({{Url}})",
+		"color": 15258703,
+		"fields": [{
+			"name": "Description",
+			"value": "{{Description}}"
+		}],
+		"footer": {
+			
+		}
+	}]
+}
